@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Airmour)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Airmour's github stats](https://github-readme-stats.vercel.app/api?username=Airmour)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![GitHub Stats]( https://zinc-profile.songraysmail.workers.dev/?user=Airmour)
 
 <!--
 **Airmour/Airmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
